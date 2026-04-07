@@ -1,7 +1,11 @@
 aid: l-brands
-url: https://raw.githubusercontent.com/api-evangelist/l-brands/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/l-brands/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.l-brands.com
+description: >-
+  Offering on-trend personal care and home fragrance at affordable prices. Learn about
+  our commitments to quality and safety, and to our people and our planet.
