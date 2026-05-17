@@ -8,7 +8,7 @@ description: >-
   off as a standalone retailer. The L Brands brand is no longer in active
   use; this repository preserves the historical corporate record. No public
   developer API has been documented.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Retail
