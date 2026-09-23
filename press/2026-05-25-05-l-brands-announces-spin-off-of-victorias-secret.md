@@ -1,7 +1,9 @@
 ---
 title: L Brands Announces Spin-Off Of Victoria's Secret
 url: https://www.pymnts.com/news/retail/2021/l-brands-announces-spin-off-of-victorias-secret/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"L Brands" press release artificial intelligence'
 position: 5
 source: serpapi-google

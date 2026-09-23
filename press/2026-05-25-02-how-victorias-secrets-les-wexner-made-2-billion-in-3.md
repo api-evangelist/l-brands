@@ -1,7 +1,9 @@
 ---
 title: How Victoria's Secret's Les Wexner Made $2 Billion In 3 ...
 url: https://www.facebook.com/forbes/posts/how-victorias-secrets-les-wexner-made-2-billion-in-3-months-from-ai-giant-corewe/1113293443993978/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"L Brands" press release artificial intelligence'
 position: 2
 source: serpapi-google
